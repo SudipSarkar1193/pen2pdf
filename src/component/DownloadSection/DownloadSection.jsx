@@ -51,7 +51,7 @@ const DownloadSection = ({ downloadUrl, isProcessing }) => {
       <style>{keyframes}</style>
 
       <h2 className="text-xl font-bold text-white mb-4 text-center tracking-wide">
-        Convert your handwritten notes to PDF in one click 😎
+        Convert your handwritten notes to PDF in a single click 😉
       </h2>
 
       {isProcessing ? (
